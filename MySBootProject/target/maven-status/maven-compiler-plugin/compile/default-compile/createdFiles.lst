@@ -1,2 +1,3 @@
-com\anu\springbootstarter\controller\TestController.class
 com\anu\springbootstarter\SpringBootMainApp.class
+com\anu\springbootstarter\controller\JspController.class
+com\anu\springbootstarter\controller\TestController.class
